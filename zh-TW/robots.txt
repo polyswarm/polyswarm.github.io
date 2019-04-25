@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://docs.polyswarm.io/sitemap.xml
+
+User-agent: *
+Disallow: /404.html
